@@ -20,8 +20,8 @@ def long_planeteer_calls(array)
   # array.find{|word| word > 4}
 end
 
-def find_the_cheese(array, array)
+def find_the_cheese(array, item)
   array1.find do |item|
-    array2.include?(cheese)
+    array2.include?(item)
   end
 end
