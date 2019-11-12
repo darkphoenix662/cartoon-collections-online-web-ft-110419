@@ -24,3 +24,4 @@ def find_the_cheese(snacks)
   array1.find do |item|
     array2.include?(item)
 end
+end
