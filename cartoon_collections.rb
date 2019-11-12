@@ -21,7 +21,7 @@ def long_planeteer_calls(array)
 end
 
 def find_the_cheese(array)
-  cheddar_cheese.find do |item|
-    no_cheese.include?(item)
+  array1.find do |cheese|
+    array2.include? == "cheese"
   end
 end
