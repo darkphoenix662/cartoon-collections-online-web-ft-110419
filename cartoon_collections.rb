@@ -22,5 +22,5 @@ end
 
 def find_the_cheese(array)
   array1.find do |item|
-    array2.include?(cheese)
+    array2.include?(item)
 end
